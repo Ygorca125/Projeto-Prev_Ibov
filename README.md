@@ -26,7 +26,7 @@ Período utilizado: 04/12/2023 - 03/12/2025 [2 anos]
 ## Tecnologias
 Python, pandas, prophet, numpy, intertools, gridsearch, ipython, matplotlib, sklearn
 
-#Apresentação do projeto no youtube
+##Apresentação do projeto no youtube
 https://www.youtube.com/watch?v=ZqsMfRRkWUE
 
 ## Autor
